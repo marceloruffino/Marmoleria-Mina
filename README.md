@@ -1,4 +1,6 @@
 # Marmoleria-Mina-2
 Web for Marmoleria mina
-If you want´s to collaborate, my idea it´s to create a Responsive web site for Marmoleria Mina, MM it´s a company that elaborate worktops for kitchen and bathrooms from Marble or Granite slabs. Also we provide headstones for cementeries or conmmemoratives placs for companies.
-There are two types Nacionals and Imported stones.
+If you wants to collaborate, my idea is to create a responsive web site for Marmoleria Mina.
+MM is a company that makes worktops for kitchens and bathrooms from Marble or Granite slabs. 
+We also provide headstones for cemeteries or conmmemoratives plaques for companies.
+There are two types, domestic and Imported stones.
