@@ -1,3 +1,12 @@
-h1{
-    color: whitesmoke;
+body {
+    background-color: #F08144 !important;
 }
+.navbar {
+background-color: #F08144 !important;
+}
+.navbar-brand {
+    color: whitesmoke !important;
+}
+.container {
+    display: flex;
+  }
